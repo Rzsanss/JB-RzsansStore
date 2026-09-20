@@ -1,0 +1,6 @@
+{
+  "name": "RZSANS STORE",
+  "description": "Marketplace akun game online modern, aman, dan terpercaya dengan desain premium dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
